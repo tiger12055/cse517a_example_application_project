@@ -1,7 +1,7 @@
 Machine Learning (cse517a) Example Application Project
 ======================================================
 
-This repository serves as an example for your application project.
+This repository serves as an example for your application project. Feel free to fork this repository if you would like a starting point.
 
 Folder Setup
 ------------
