@@ -1,6 +1,12 @@
 Milestone 1
 README
 ------
+For milestone1, the Boston housing dataset was chosen and we predicted the price based on the 13 features.
+We used the linear regression model with MEDV(price) as the dependent variable and all the remaining variables as independent variables. We train the model with the training dataset.
+
+Next, we use the trained model to predict the outcome (MEDV) for the testing dataset.
+The mean squared error is the error measure used.
+
 The dataset (Boston Housing Price) was taken from the StatLib library which is maintained at Carnegie Mellon University and is freely available for download from the UCI Machine Learning Repository.
 
 The dataset consists of 506 observations of 14 attributes. 
@@ -24,8 +30,7 @@ B     – 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
 LSTAT     – % lower status of the population
 MEDV     – Median value of owner-occupied homes in $1000’s
 
+Author:
+Ashwin Kumar
+Yuxiang Wang
 
-We used the linear regression model with MEDV(price) as the dependent variable and all the remaining variables as independent variables. We train the model with the training dataset.
-
-Next, we use the trained model to predict the outcome (MEDV) for the testing dataset.
-The mean squared error is the error measure used.
