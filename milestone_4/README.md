@@ -1,6 +1,6 @@
 Milestone 4
 ===========
-Please view thw Readme.pdf for more details.
+Please view the Readme.pdf for more details.
 
 Author:
 Yuxiang Wang 
